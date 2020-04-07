@@ -1,1 +1,1 @@
-Web: gunicorn T1_Daniel_Lyon.wsgi
+web: gunicorn T1_Daniel_Lyon.wsgi
